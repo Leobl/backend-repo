@@ -1,8 +1,10 @@
 # backend-repo
  ### What is npm?
 Npm makes it easy for JavaScript developers to share and reuse code, and makes it easy to update the code that you’re sharing, so you can build amazing things.
- ### In the beginning we get to the file and the make an npm init -y
- ### Then, we create new files with the touch
+ ### In the beginning we get to the file and the make an 
+ **npm init -y**
+ ### Then, we create new files with the 
+ **touch**
    * Those files are:
      * **index.js**         
       * **README.md**
@@ -14,7 +16,8 @@ Npm makes it easy for JavaScript developers to share and reuse code, and makes i
     
     
  ##### *Generally, eslint is an open source project that provides pluggable linting utility for JS. A great explanation is:  [Coding train](https://www.youtube.com/watch?v=clzTwZgMlqE)*
- ### After the above files are installed, we are going to install the frameworks and packages that we are going to use with ### the command: npm i -S
+ ### After the above files are installed, we are going to install the frameworks and packages that we are going to use with ### the command: 
+ **npm i -S**
    * Those are:
     * **express**                      
      * which is our back-end framework that we use to create our routes and stuff like that so that we can handle data that comes in when a request is made to our server we want to be able to read the body
